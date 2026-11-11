@@ -1,0 +1,98 @@
+```json
+{
+  "framework": "SCALE",
+  "title": "1000-Year-Old Thanjavur Temple Construction",
+  "SCALE": {
+    "S": {
+      "subject": "Chola-era architects, master stone sculptors, engineers, workers, craftsmen, and laborers constructing the Brihadisvara Temple",
+      "main_structure": "Massive South Indian stone temple under construction, with partially completed vimana, stone walls, carved pillars, stairways, and large granite blocks",
+      "historical_period": "Chola period, approximately 1000 years ago, during the reign of Rajaraja Chola I",
+      "cultural_details": [
+        "Traditional Chola clothing",
+        "Ancient stone-working tools",
+        "Wooden scaffolding",
+        "Stone carving and polishing",
+        "Traditional construction techniques",
+        "Bullock carts transporting granite stones"
+      ]
+    },
+
+    "C": {
+      "context": "A historically inspired reconstruction scene showing how the great Thanjavur temple may have been constructed using large stone blocks and organized manual labor",
+      "environment": "Ancient Thanjavur landscape with open construction grounds, temporary wooden structures, stone-cutting areas, workers' shelters, and traditional transport",
+      "architecture": "Authentic Chola Dravidian architectural style with monumental proportions, detailed stone carvings, granite construction, and a towering vimana",
+      "historical_accuracy": "Avoid modern machinery, modern clothing, modern buildings, vehicles, electricity, concrete construction equipment, and contemporary technology"
+    },
+
+    "A": {
+      "action": [
+        "Workers lifting and positioning massive granite blocks",
+        "Stone sculptors carving detailed temple figures",
+        "Architects supervising measurements and construction",
+        "Engineers organizing stone placement",
+        "Craftsmen polishing granite surfaces",
+        "Bullock carts transporting carved stone",
+        "Workers constructing and climbing wooden scaffolding"
+      ],
+      "human_activity": "Large coordinated workforce working together on different stages of temple construction",
+      "construction_method": "Ancient manual construction using ropes, wooden scaffolding, ramps, levers, pulleys, stone-working tools, and organized human labor"
+    },
+
+    "L": {
+      "lighting": "Warm early-morning sunlight illuminating the granite temple and construction workers",
+      "landscape": "Historic Thanjavur surroundings with earthy ground, palm trees, sparse vegetation, distant village structures, and a clear tropical sky",
+      "camera": {
+        "shot": "Wide cinematic establishing shot",
+        "angle": "Slight elevated viewpoint showing the entire construction site",
+        "lens": "24mm wide-angle cinematic lens",
+        "depth_of_field": "Deep focus so the temple, workers, scaffolding, and surrounding landscape remain visible",
+        "composition": "The unfinished temple dominates the center while workers and construction activities create visual depth in the foreground and background"
+      }
+    },
+
+    "E": {
+      "emotion": "Grand, inspiring, historically immersive, monumental, and respectful",
+      "visual_style": "Ultra-realistic historical reconstruction with cinematic detail",
+      "materials": [
+        "Weathered granite",
+        "Natural wood",
+        "Rope",
+        "Stone dust",
+        "Earth",
+        "Traditional fabrics"
+      ],
+      "details": "Highly detailed stone carvings, realistic human anatomy, authentic ancient tools, realistic granite textures, dust particles, weathered wooden scaffolding, and natural environmental details"
+    },
+
+    "output": {
+      "aspect_ratio": "16:9",
+      "quality": "Ultra-detailed, photorealistic, cinematic 8K",
+      "color_palette": [
+        "Granite gray",
+        "Earth brown",
+        "Warm golden sunlight",
+        "Natural green",
+        "Muted traditional fabric tones"
+      ],
+      "negative_prompt": [
+        "modern buildings",
+        "modern vehicles",
+        "cranes",
+        "excavators",
+        "steel construction machinery",
+        "electricity",
+        "modern clothing",
+        "plastic materials",
+        "concrete construction",
+        "modern roads",
+        "modern tools",
+        "fantasy architecture",
+        "incorrect temple proportions",
+        "text",
+        "logos",
+        "watermarks"
+      ]
+    }
+  }
+}
+```
